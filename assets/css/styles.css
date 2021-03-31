@@ -1,0 +1,108 @@
+.nav-item.apple-logo {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 0;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark.flex-grow-0 {
+  background-color: black !important;
+  opacity: 0.8;
+}
+
+.nav-link {
+  font-size: 13px;
+  color: white !important;
+}
+
+.covid-19 {
+  margin-top: 50px;
+  background-color: rgb(10,111,183);
+  height: 40px;
+  text-align: justify;
+}
+
+#covid-link {
+  color: white;
+  margin-left: 30%;
+  padding-bottom: 0px;
+}
+
+.shop-online {
+  height: 40px;
+}
+
+.shop-online {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.product {
+  text-align: center;
+}
+
+.h1 {
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.links {
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.product.iPhone-12 {
+  background-color: rgb(242,242,242);
+}
+
+.product.iPhone-12pro {
+  background-color: rgb(0,0,0);
+}
+
+.product.iPhone-12pro.dark {
+  color: white;
+}
+
+.product-small {
+  height: 550px;
+  margin: 0 0 10px 10px;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.h1-racial {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.p-racial {
+  font-weight: bold;
+}
+
+.product-small.dark {
+  color: white;
+}
+
+.row.grid {
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+#apple-watch {
+  background-color: rgb(0,0,0);
+}
+
+#apple-health {
+  background-color: white;
+}
+
+#apple-session {
+  background-color: white;
+}
+
+.product-small.apple-session {
+}
+
+#apple-card {
+  background-color: rgb(255,255,255);
+}
+
